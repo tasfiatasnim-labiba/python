@@ -1,6 +1,6 @@
-Print the numbers from 1-20 using for loop.
+#Print the numbers from 1-20 using for loop.
 
-Code:
+#Code:
 for i in range(1,21):
 	
     if (i%2)==0:
